@@ -56,13 +56,13 @@ Beneath the bright sun, her joy never withers,
 She's the belle of the barnyard, as she happily shivers.
 ```
 
-**Genre Classifier**: Country, Children's Music
-**Suggested Key**: C 
-**Chord Progression**: 
-- I vi IV V
-- I V vi IV
+- **Genre Classifier**: Country, Children's Music
+- **Suggested Key**: C 
+- **Chord Progression**: 
+    - I vi IV V
+    - I V vi IV
 
-Chord Progression (I vi IV V): https://chordchord.com/preview/tC16ByQr
+- Chord Progression (I vi IV V): https://chordchord.com/preview/tC16ByQr
 
 
 ### Resources
