@@ -44,6 +44,7 @@ Human evaluation will be conducted. A score will be assigned (scale 0-5) on diff
 
 **Generated Lyrics**:
 
+```
 In the field where the sunflowers sway,
 A happy pig dances the day away.
 With a twirl and a snort under skies so blue,
@@ -53,6 +54,7 @@ The sun beams down with a tender glow,
 On her pink little nose, as she taps a toe.
 Beneath the bright sun, her joy never withers,
 She's the belle of the barnyard, as she happily shivers.
+```
 
 **Genre Classifier**: Country, Children's Music
 **Suggested Key**: C 
